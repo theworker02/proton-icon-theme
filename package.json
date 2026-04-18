@@ -1,0 +1,30 @@
+{
+  "name": "proton-icons",
+  "displayName": "Proton Icons",
+  "description": "A futuristic, production-ready file icon theme for Visual Studio Code.",
+  "version": "1.0.0",
+  "publisher": "magnificnet-language",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "icons",
+    "icon-theme",
+    "theme",
+    "proton",
+    "files"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "proton-icons",
+        "label": "Proton Icons",
+        "path": "./icon-theme.json"
+      }
+    ]
+  }
+}

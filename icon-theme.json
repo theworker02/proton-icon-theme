@@ -1,0 +1,196 @@
+{
+  "$schema": "vscode://schemas/icon-theme",
+  "iconDefinitions": {
+    "_file": {
+      "iconPath": "./icons/default-file.svg"
+    },
+    "_folder": {
+      "iconPath": "./icons/folder.svg"
+    },
+    "_folder_open": {
+      "iconPath": "./icons/folder-open.svg"
+    },
+    "_proton": {
+      "iconPath": "./icons/proton.svg"
+    },
+    "_js": {
+      "iconPath": "./icons/js.svg"
+    },
+    "_ts": {
+      "iconPath": "./icons/ts.svg"
+    },
+    "_json": {
+      "iconPath": "./icons/json.svg"
+    },
+    "_html": {
+      "iconPath": "./icons/html.svg"
+    },
+    "_css": {
+      "iconPath": "./icons/css.svg"
+    },
+    "_md": {
+      "iconPath": "./icons/md.svg"
+    },
+    "_py": {
+      "iconPath": "./icons/py.svg"
+    },
+    "_java": {
+      "iconPath": "./icons/java.svg"
+    },
+    "_c": {
+      "iconPath": "./icons/c.svg"
+    },
+    "_cpp": {
+      "iconPath": "./icons/cpp.svg"
+    },
+    "_csharp": {
+      "iconPath": "./icons/csharp.svg"
+    },
+    "_php": {
+      "iconPath": "./icons/php.svg"
+    },
+    "_go": {
+      "iconPath": "./icons/go.svg"
+    },
+    "_rs": {
+      "iconPath": "./icons/rs.svg"
+    },
+    "_yml": {
+      "iconPath": "./icons/yml.svg"
+    },
+    "_xml": {
+      "iconPath": "./icons/xml.svg"
+    },
+    "_svg": {
+      "iconPath": "./icons/svg.svg"
+    },
+    "_png": {
+      "iconPath": "./icons/png.svg"
+    },
+    "_sql": {
+      "iconPath": "./icons/sql.svg"
+    },
+    "_sh": {
+      "iconPath": "./icons/sh.svg"
+    },
+    "_docker": {
+      "iconPath": "./icons/docker.svg"
+    },
+    "_git": {
+      "iconPath": "./icons/git.svg"
+    },
+    "_env": {
+      "iconPath": "./icons/env.svg"
+    },
+    "_toml": {
+      "iconPath": "./icons/toml.svg"
+    },
+    "_vue": {
+      "iconPath": "./icons/vue.svg"
+    },
+    "_react": {
+      "iconPath": "./icons/react.svg"
+    },
+    "_lock": {
+      "iconPath": "./icons/lock.svg"
+    }
+  },
+  "file": "_file",
+  "folder": "_folder",
+  "folderExpanded": "_folder_open",
+  "rootFolder": "_folder",
+  "rootFolderExpanded": "_folder_open",
+  "fileExtensions": {
+    "proton": "_proton",
+    "js": "_js",
+    "mjs": "_js",
+    "cjs": "_js",
+    "ts": "_ts",
+    "mts": "_ts",
+    "cts": "_ts",
+    "json": "_json",
+    "jsonc": "_json",
+    "html": "_html",
+    "htm": "_html",
+    "css": "_css",
+    "scss": "_css",
+    "sass": "_css",
+    "less": "_css",
+    "md": "_md",
+    "markdown": "_md",
+    "mdx": "_md",
+    "py": "_py",
+    "pyw": "_py",
+    "java": "_java",
+    "c": "_c",
+    "h": "_c",
+    "cpp": "_cpp",
+    "cxx": "_cpp",
+    "cc": "_cpp",
+    "hpp": "_cpp",
+    "hxx": "_cpp",
+    "hh": "_cpp",
+    "cs": "_csharp",
+    "csx": "_csharp",
+    "php": "_php",
+    "phtml": "_php",
+    "go": "_go",
+    "rs": "_rs",
+    "yml": "_yml",
+    "yaml": "_yml",
+    "xml": "_xml",
+    "xsd": "_xml",
+    "xsl": "_xml",
+    "xslt": "_xml",
+    "plist": "_xml",
+    "svg": "_svg",
+    "png": "_png",
+    "jpg": "_png",
+    "jpeg": "_png",
+    "gif": "_png",
+    "webp": "_png",
+    "avif": "_png",
+    "ico": "_png",
+    "bmp": "_png",
+    "sql": "_sql",
+    "sh": "_sh",
+    "bash": "_sh",
+    "zsh": "_sh",
+    "fish": "_sh",
+    "ps1": "_sh",
+    "dockerfile": "_docker",
+    "env": "_env",
+    "toml": "_toml",
+    "vue": "_vue",
+    "jsx": "_react",
+    "tsx": "_react"
+  },
+  "fileNames": {
+    ".protonrc": "_proton",
+    ".gitignore": "_git",
+    ".gitattributes": "_git",
+    ".gitmodules": "_git",
+    ".dockerignore": "_docker",
+    ".env": "_env",
+    ".env.local": "_env",
+    ".env.development": "_env",
+    ".env.production": "_env",
+    ".env.test": "_env",
+    ".env.example": "_env",
+    "Dockerfile": "_docker",
+    "docker-compose.yml": "_docker",
+    "docker-compose.yaml": "_docker",
+    "compose.yml": "_docker",
+    "compose.yaml": "_docker",
+    "package.json": "_json",
+    "package-lock.json": "_lock",
+    "tsconfig.json": "_json",
+    "jsconfig.json": "_json",
+    "yarn.lock": "_lock",
+    "pnpm-lock.yaml": "_lock",
+    "bun.lockb": "_lock",
+    "Cargo.lock": "_lock",
+    "composer.lock": "_lock",
+    "Pipfile.lock": "_lock"
+  }
+}
