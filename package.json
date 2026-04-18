@@ -5,6 +5,14 @@
   "version": "1.0.0",
   "publisher": "magnificnet-language",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/proton-icon-theme.git"
+  },
+  "homepage": "https://github.com/theworker02/proton-icon-theme#readme",
+  "bugs": {
+    "url": "https://github.com/theworker02/proton-icon-theme/issues"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
