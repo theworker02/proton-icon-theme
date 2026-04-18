@@ -1,3 +1,10 @@
+![VS Code](https://img.shields.io/badge/VS%20Code-Extension-blue?logo=visualstudiocode)
+![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)
+![Icons](https://img.shields.io/badge/icon%20pack-Proton-00d4ff)
+![License](https://img.shields.io/badge/license-MIT-purple)
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html15&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)
+
 # Proton Icons
 
 Proton Icons is a clean, futuristic Visual Studio Code icon theme built around a compact purple-and-white design system inspired by the Proton mark and your recently built Proton language. Every icon in the theme uses valid SVG geometry only, with rounded forms and a unified tile-based silhouette so the theme feels consistent across files and folders.
